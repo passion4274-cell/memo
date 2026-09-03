@@ -1,1 +1,1 @@
-# memo
+pip install finance-datareader openpyxl pandas
